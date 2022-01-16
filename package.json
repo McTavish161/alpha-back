@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "pm2 start --no-daemon app.js -i 4"
+    "start": "pm2 start --no-daemon app.js"
   },
   "keywords": [],
   "author": "",
