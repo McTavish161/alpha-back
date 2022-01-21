@@ -3,8 +3,6 @@
 const express = require('express')
 const cors = require('cors')
 const db = require('./config/DB')
-// const Users = require('./controllers/Users')
-
 
 // if (cluster.isMaster) {
 //     console.log(`Master ${process.pid} is running!`)
